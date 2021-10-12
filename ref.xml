@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" SelectedStyle="">
+    <b:Source>
+        <b:Year>2021</b:Year>
+        <b:BIBTEX_Series>Springer Remote Sensing/Photogrammetry</b:BIBTEX_Series>
+        <b:BIBTEX_Entry>incollection</b:BIBTEX_Entry>
+        <b:SourceType>BookSection</b:SourceType>
+        <b:Title>Image Processing Methods in Agricultural Observation Systems</b:Title>
+        <b:Tag>zhangImageProcessingMethods2021</b:Tag>
+        <b:Publisher>Springer International Publishing</b:Publisher>
+        <b:BIBTEX_Abstract>Image processing is an essential part of the agricultural observation system. This chapter is the first attempt to provide an overview of the image processing methods, technologies, and tools from the perspective of agro-geoinformatics. First, we introduce the origins, definitions, and basic steps of digital image processing. Along with the traditional image processing hardware and software, the state-of-the-art technologies for agricultural image processing, such as mobile device-based image processing and cloud computing-based image processing, are covered. Image data could be acquired by different sensors in different ways. We discuss three common approaches to collect agricultural image data, in situ, airborne-based, and space-borne-based data collection, as well as the big data challenge in agro-geoinformatics. As the core image processing operation in the agricultural observation system, information extraction aims to understand agro-geoinformation from the raw image data. This chapter also illustrates several image information extraction methods that are widely employed in agro-geoinformatics, such as knowledge-based expert system, machine learning-based decision tree, and artificial neural network. Furthermore, a case study of the production of Cropland Data Layer (CDL) data, a comprehensive, raster-formatted, geo-referenced, annual crop-specific land cover map produced by the U.S. Department of Agriculture (USDA) National Agricultural Statistics Service (NASS), is demonstrated.</b:BIBTEX_Abstract>
+        <b:BookTitle>Agro-Geoinformatics: Theory and Practice</b:BookTitle>
+        <b:BIBTEX_KeyWords>Agricultural data collection,Agricultural information extraction,Agricultural monitoring,Agricultural observation system,Big data,Image processing,Land cover classification,Machine learning</b:BIBTEX_KeyWords>
+        <b:DOI>10.1007/978-3-030-66387-2_6</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Zhang</b:Last>
+                        <b:First>Chen</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Lin</b:Last>
+                        <b:First>Li</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+            <b:Editor>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Di</b:Last>
+                        <b:First>Liping</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Üstündağ</b:Last>
+                        <b:First>Berk</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Editor>
+        </b:Author>
+        <b:Pages>81–102</b:Pages>
+        <b:StandardNumber> ISBN: 978-3-030-66387-2</b:StandardNumber>
+        <b:ConferenceName>Agro-Geoinformatics: Theory and Practice</b:ConferenceName>
+        <b:City>Cham</b:City>
+    </b:Source>
+    <b:Source>
+        <b:Year>2019</b:Year>
+        <b:BIBTEX_Entry>incollection</b:BIBTEX_Entry>
+        <b:SourceType>BookSection</b:SourceType>
+        <b:Title>Chapter 27 - Linear Regression</b:Title>
+        <b:Tag>hoffmanChapter27Linear2019</b:Tag>
+        <b:Publisher>Academic Press</b:Publisher>
+        <b:BIBTEX_Abstract>Linear regression is an important technique. Its basis is illustrated here, and various derived values such as the standard deviation from regression and the slope of the relationship between two variables are shown. The way to study residuals is given, as well as information to evaluate auto-correlation. Setting confidence limits is more complex than for means, and some considerations of how to set then for small values of X and Y are discussed. The Bland-Altman method of comparing two variables is described. Ways of evaluating heterogeneity of variance are given. The method for comparing the slopes and elevations of two (or more) data sets is shown, as well as the way off doing this on-line. There is a brief discussion the way to detect outliers and their effects. Finally, the potential errors in using ratio numbers are explored.</b:BIBTEX_Abstract>
+        <b:BookTitle>Basic Biostatistics for Medical and Biomedical Practitioners (Second Edition)</b:BookTitle>
+        <b:BIBTEX_KeyWords>Analysis of covariance (ANCOVA),Bland-Altman comparison,Confidence limits for slope and elevation,Influence,Intercept,Leverage,Residuals,Slope,Standard deviation from regression</b:BIBTEX_KeyWords>
+        <b:DOI>10.1016/B978-0-12-817084-7.00027-9</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Hoffman</b:Last>
+                        <b:Middle>I. E.</b:Middle>
+                        <b:First>Julien</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+            <b:Editor>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Hoffman</b:Last>
+                        <b:Middle>I. E.</b:Middle>
+                        <b:First>Julien</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Editor>
+        </b:Author>
+        <b:Pages>445–490</b:Pages>
+        <b:Month>1</b:Month>
+        <b:StandardNumber> ISBN: 978-0-12-817084-7</b:StandardNumber>
+        <b:ConferenceName>Basic Biostatistics for Medical and Biomedical Practitioners (Second Edition)</b:ConferenceName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2016</b:Year>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>A Review of Supervised Machine Learning Algorithms</b:Title>
+        <b:Tag>singhReviewSupervisedMachine2016</b:Tag>
+        <b:BIBTEX_Abstract>Supervised machine learning is the construction of algorithms that are able to produce general patterns and hypotheses by using externally supplied instances to predict the fate of future instances. Supervised machine learning classification algorithms aim at categorizing data from prior information. Classification is carried out very frequently in data science problems. Various successful techniques have been proposed to solve such problems viz. Rule-based techniques, Logic-based techniques, Instance-based techniques, stochastic techniques. This paper discusses the efficacy of supervised machine learning algorithms in terms of the accuracy, speed of learning, complexity and risk of over fitting measures. The main objective of this paper is to provide a general comparison with state of art machine learning algorithms.</b:BIBTEX_Abstract>
+        <b:BookTitle>2016 3rd International Conference on Computing for Sustainable Global Development (INDIACom)</b:BookTitle>
+        <b:BIBTEX_KeyWords>Artificial neural networks,Artificial Neural Networks (ANN),Bayesian Network (BN),Classification algorithms,Decision support systems,Decision Trees (DT),Handheld computers,k-Nearest Neighbors (k-NN),Logistic Regression (LR),Machine learning algorithms,Random Forests (RF),Roads,Supervised Machine Learning,Support Vector Machine (SVM),Support vector machines</b:BIBTEX_KeyWords>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Singh</b:Last>
+                        <b:First>A.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Thakur</b:Last>
+                        <b:First>N.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Sharma</b:Last>
+                        <b:First>A.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>1310–1315</b:Pages>
+        <b:Month>3</b:Month>
+        <b:ConferenceName>2016 3rd International Conference on Computing for Sustainable Global Development (INDIACom)</b:ConferenceName>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>A Practical Guide to Support Vector Classification</b:Title>
+        <b:Tag>hsuPracticalGuideSupport</b:Tag>
+        <b:BIBTEX_Abstract>The support vector machine (SVM) is a popular classification technique. However, beginners who are not familiar with SVM often get unsatisfactory results since they miss some easy but significant steps. In this guide, we propose a simple procedure which usually gives reasonable results.</b:BIBTEX_Abstract>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Hsu</b:Last>
+                        <b:First>Chih-Wei</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Chang</b:Last>
+                        <b:First>Chih-Chung</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Lin</b:Last>
+                        <b:First>Chih-Jen</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>16</b:Pages>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Delivering Messages from Plant Clinics</b:Title>
+        <b:Tag>bentleyDeliveringMessagesPlant</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Bentley</b:Last>
+                        <b:First>Jeffery</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Neves</b:Last>
+                        <b:First>Eduardo</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Hidalgo</b:Last>
+                        <b:First>Eduardo</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>32</b:Pages>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Impact of Plant Clinics on Disease and Pest Management, Tomato Productivity and Profitability In Malawi</b:Title>
+        <b:Tag>ImpactPlantClinics</b:Tag>
+        <b:Author/>
+        <b:JournalName>CABI.org</b:JournalName>
+        <b:PublicationTitle>Impact of Plant Clinics on Disease and Pest Management, Tomato Productivity and Profitability In Malawi</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2020</b:Year>
+        <b:Volume>1584</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Tobacco-Disease Image Recognition via Multiple-Attention Classification Network</b:Title>
+        <b:Tag>sunTobaccodiseaseImageRecognition2020</b:Tag>
+        <b:BIBTEX_Abstract>The recognition of disease images is of great importance in modern tobacco agriculture. Compared with other plant diseases, the early disease spots of tobacco are highly similar, and the quantity of tobacco disease images is scarce due to the difficulty of data collection. As such, the image recognition of early tobacco diseases is challenging. In response to these problems, this study proposes a novel image-classification method, namely, Multiple-Attention Classification Network (MACN). It improves the existing image classification network from two aspects: 1) the acquisition of low-level features based on transfer-learning and 2) the extraction of high-level features by modelling the multiple dependencies in low-level features. The pretrained model is used to obtain the initial feature map, thereby breaking the limitation of small-scale dataset. A novel multiple-attention module (MAM) is designed to learn fine-grained differences between classes. To evaluate the proposed method, this paper conducts experiments on field-collected images. Results show that this method is superior in identifying early tobacco diseases and has demonstrated better robustness when dealing with the actual field images with complex factors.</b:BIBTEX_Abstract>
+        <b:DOI>10.1088/1742-6596/1584/1/012008</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Sun</b:Last>
+                        <b:First>Y.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Wang</b:Last>
+                        <b:Middle>Q.</b:Middle>
+                        <b:First>H.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Xia</b:Last>
+                        <b:Middle>Y.</b:Middle>
+                        <b:First>Z.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Ma</b:Last>
+                        <b:Middle>H.</b:Middle>
+                        <b:First>J.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Lv</b:Last>
+                        <b:Middle>Z.</b:Middle>
+                        <b:First>M.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>012008</b:Pages>
+        <b:Month>7</b:Month>
+        <b:JournalName>Journal of Physics: Conference Series</b:JournalName>
+        <b:StandardNumber> ISSN: 1742-6588, 1742-6596</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Adapted Approach for Fruit Disease Identification Using Images</b:Title>
+        <b:Tag>dubeyAdaptedApproachFruit</b:Tag>
+        <b:BIBTEX_Abstract>Diseases in fruit cause devastating problem in economic losses and production in agricultural industry worldwide. In this paper, an adaptive approach for the identification of fruit diseases is proposed and experimentally validated. The image processing based proposed approach is composed of the following main steps; in the first step K-Means clustering technique is used for the defect segmentation, in the second step some state of the art features are extracted from the segmented image, and finally images are classified into one of the classes by using a Multi-class Support Vector Machine. We have considered diseases of apple as a test case and evaluated our approach for three types of apple diseases namely apple scab, apple blotch and apple rot. Our experimental results express that the proposed solution can significantly support accurate detection and automatic identification of fruit diseases. The classification accuracy for the proposed solution is achieved up to 93%.</b:BIBTEX_Abstract>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Dubey</b:Last>
+                        <b:Middle>Ram</b:Middle>
+                        <b:First>Shiv</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Jalal</b:Last>
+                        <b:Middle>Singh</b:Middle>
+                        <b:First>Anand</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>15</b:Pages>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>(PDF) Introduction to Artificial Neural Networks</b:Title>
+        <b:Tag>PDFIntroductionArtificial</b:Tag>
+        <b:BIBTEX_Abstract>ResearchGate is a network dedicated to science and research. Connect, collaborate and discover scientific publications, jobs and conferences. All for free.</b:BIBTEX_Abstract>
+        <b:BIBTEX_HowPublished>https://www.researchgate.net/publication/5847739\_{I}{n}{t}roduction\_{t}{o}{\_{a}{r}{t}}ificial\_{n}{e}{u}ral\_{n}{e}{t}works</b:BIBTEX_HowPublished>
+        <b:Author/>
+        <b:JournalName>ResearchGate</b:JournalName>
+        <b:PublicationTitle>(PDF) Introduction to Artificial Neural Networks</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Structural Health Monitoring of Civil Infrastructure Systems | ScienceDirect</b:Title>
+        <b:Tag>StructuralHealthMonitoringb</b:Tag>
+        <b:BIBTEX_HowPublished>https://www.sciencedirect.com/book/9781845693923/structural-health-monitoring-of-civil-infrastructure-systems#book-description</b:BIBTEX_HowPublished>
+        <b:Author/>
+        <b:PublicationTitle>Structural Health Monitoring of Civil Infrastructure Systems | ScienceDirect</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Copyright>Creative Commons Attribution-ShareAlike License</b:BIBTEX_Copyright>
+        <b:Year>2021</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>RSA (Cryptosystem)</b:Title>
+        <b:Tag>RSACryptosystem2021</b:Tag>
+        <b:BIBTEX_Abstract>RSA (Rivest– Shamir– Adleman) is a public-key cryptosystem that is widely used for secure data transmission. It is also one of the oldest. The acronym RSA comes from the surnames of Ron Rivest, Adi Shamir and Leonard Adleman, who publicly described the algorithm in 1977. An equivalent system was developed secretly, in 1973 at GCHQ (the British signals intelligence agency), by the English mathematician Clifford Cocks. That system was declassified in 1997.In a public-key cryptosystem, the encryption key is public and distinct from the decryption key, which is kept secret (private). An RSA user creates and publishes a public key based on two large prime numbers, along with an auxiliary value. The prime numbers are kept secret. Messages can be encrypted by anyone, via the public key, but can only be decoded by someone who knows the prime numbers.The security of RSA relies on the practical difficulty of factoring the product of two large prime numbers, the "factoring problem". Breaking RSA encryption is known as the RSA problem. Whether it is as difficult as the factoring problem is an open question. There are no published methods to defeat the system if a large enough key is used. RSA is a relatively slow algorithm. Because of this, it is not commonly used to directly encrypt user data. More often, RSA is used to transmit shared keys for symmetric key cryptography, which are then used for bulk encryption-decryption.</b:BIBTEX_Abstract>
+        <b:Author/>
+        <b:Month>10</b:Month>
+        <b:JournalName>Wikipedia</b:JournalName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2018</b:Year>
+        <b:Volume>9</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Using Artificial Neural Networks for Detecting Damage on Tobacco Leaves Caused by Blue Mold</b:Title>
+        <b:Tag>avila-georgeUsingArtificialNeural2018</b:Tag>
+        <b:BIBTEX_Abstract>Worldwide, the monitoring of pests and diseases plays a fundamental role in the agricultural sustainability; making necessary the development of new tools for early pest detection. In this sense, we present a software application for detecting damage in tobacco (Nicotiana tabacum L.) leaves caused by the fungus of blue mold (Peronospora tabacina Adam). This software application processes tobacco leaves images using a pattern recognition technique known as Artificial Neural Network. For the training and testing stages, a total of 40 images of tobacco leaves were used. The experimentation carried out shows that the developed model has accuracy higher than 97% and there is no significant difference with a visual analysis carried out by experts in tobacco crop.</b:BIBTEX_Abstract>
+        <b:DOI>10.14569/IJACSA.2018.090873</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Avila-George</b:Last>
+                        <b:First>Himer</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Valdez-Morones</b:Last>
+                        <b:First>Topacio</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>P\textasciiacuteerez-Espinosa</b:Last>
+                        <b:First>Humberto</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Acevedo-Ju\textasciiacutearez</b:Last>
+                        <b:First>Brenda</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Castro</b:Last>
+                        <b:First>Wilson</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:JournalName>International Journal of Advanced Computer Science and Applications</b:JournalName>
+        <b:Number>8</b:Number>
+        <b:StandardNumber> ISSN: 21565570, 2158107X</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Artificial Neural Network | Brilliant Math &amp; Science Wiki</b:Title>
+        <b:Tag>ArtificialNeuralNetwork</b:Tag>
+        <b:BIBTEX_Abstract>Artificial neural networks (ANNs) are computational models inspired by the human brain. They are comprised of a large number of connected nodes, each of which performs a simple mathematical operation. Each node&amp;#39;s output is determined by this operation, as well as a set of parameters that are specific to that node. By connecting these nodes together and carefully setting their parameters, very complex functions can be learned and calculated. Artificial neural networks are …</b:BIBTEX_Abstract>
+        <b:BIBTEX_HowPublished>https://brilliant.org/wiki/artificial-neural-network/</b:BIBTEX_HowPublished>
+        <b:Author/>
+        <b:PublicationTitle>Artificial Neural Network | Brilliant Math &amp; Science Wiki</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2009</b:Year>
+        <b:BIBTEX_Series>Woodhead Publishing Series in Civil and Structural Engineering</b:BIBTEX_Series>
+        <b:BIBTEX_Entry>incollection</b:BIBTEX_Entry>
+        <b:SourceType>BookSection</b:SourceType>
+        <b:Title>4 - Synthetic Aperture Radar and Remote Sensing Technologies for Structural Health Monitoring of Civil Infrastructure Systems</b:Title>
+        <b:Tag>shinozukaSyntheticApertureRadar2009</b:Tag>
+        <b:Publisher>Woodhead Publishing</b:Publisher>
+        <b:BIBTEX_Abstract>This chapter provides an introduction to the different remote sensing systems and the development of related change-damage detection techniques in the built environment. It begins by discussing optical remote sensing techniques. Radar remote sensing is discussed next, including a description of the synthetic aperture radar (SAR) system and its applications. The feasibility of change detection in the built environment is discussed using SAR simulation methodology and tools. The use of actual space-borne SAR technology, using Envisat ASAR data for the earthquake in Bam, Iran, in 2003, and related change detection methodologies are presented. Finally, the light detection and ranging (LIDAR) system and its applications are presented.</b:BIBTEX_Abstract>
+        <b:BookTitle>Structural Health Monitoring of Civil Infrastructure Systems</b:BookTitle>
+        <b:BIBTEX_KeyWords>change detection,light detection and ranging (LIDAR),optical remote sensing,radar remote sensing,synthetic aperture radar (SAR)</b:BIBTEX_KeyWords>
+        <b:DOI>10.1533/9781845696825.1.114</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Shinozuka</b:Last>
+                        <b:First>M.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Mansouri</b:Last>
+                        <b:First>B.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+            <b:Editor>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Karbhari</b:Last>
+                        <b:Middle>M.</b:Middle>
+                        <b:First>Vistasp</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Ansari</b:Last>
+                        <b:First>Farhad</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Editor>
+        </b:Author>
+        <b:Pages>113–151</b:Pages>
+        <b:Month>1</b:Month>
+        <b:StandardNumber> ISBN: 978-1-84569-392-3</b:StandardNumber>
+        <b:ConferenceName>Structural Health Monitoring of Civil Infrastructure Systems</b:ConferenceName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2018</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Impact of Plant Clinics on Disease and Pest Management, Tomato Productivity and Profitability In Malawi</b:Title>
+        <b:Institution>CABI</b:Institution>
+        <b:Tag>ImpactPlantClinics2018</b:Tag>
+        <b:DOI>10.1079/CABICOMM-25-8089</b:DOI>
+        <b:Author/>
+        <b:Month>8</b:Month>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2017</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Binary Face Image Recognition Using Logistic Regression and Neural Network</b:Title>
+        <b:Tag>vanlalhruaiaBinaryFaceImage2017</b:Tag>
+        <b:BIBTEX_Abstract>A face recognition technique based on binary image using logistic regression and neural network is proposed. In the proposed technique, a color image is converted to gray image and then denoised using low pass filter. Local window standard deviation is applied to the denoised image to capture the local intensity variations around eye brows, eyelids, nose and mouth, which is then binarized using adaptive thresholding to get good quality binary image. Probable face region is then detected from binary image. The size of the pre-processed binary face image is then normalized and reduced to 50%, 30%, 20% and 10% of its original size using nearest neighbor interpolation method and a face database is created corresponding to each reduced size image. Reduction in image size minimizes the computational space and time for training with logistic regression and neural network. Application of logistic regression gives a training accuracy and testing accuracy of 100% while 3-Layer Back-propagation neural network (BPNN) gives a training accuracy of 100% and testing accuracy of 97.5% even after the size is reduced to 20% of the original image dimension.</b:BIBTEX_Abstract>
+        <b:DOI>10.1109/ICECDS.2017.8390191</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Vanlalhruaia</b:Last>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Singh</b:Last>
+                        <b:Middle>K.</b:Middle>
+                        <b:First>Y.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Singh</b:Last>
+                        <b:First>N.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:JournalName>2017 International Conference on Energy, Communication, Data Analytics and Soft Computing (ICECDS)</b:JournalName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2016</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>An Application of Image Processing Techniques for Detection of Diseases on Brinjal Leaves Using K-Means Clustering Method</b:Title>
+        <b:Tag>anandApplicationImageProcessing2016</b:Tag>
+        <b:BIBTEX_Abstract>This work presents a method for identifying plant leaf disease and an approach for careful detection of diseases. The goal of proposed work is to diagnose the disease of brinjal leaf using image processing and artificial neural techniques. The diseases on the brinjal are critical issue which makes the sharp decrease in the production of brinjal. The study of interest is the leaf rather than whole brinjal plant because about 85-95 % of diseases occurred on the brinjal leaf like, Bacterial Wilt, Cercospora Leaf Spot, Tobacco mosaic virus (TMV). The methodology to detect brinjal leaf disease in this work includes K-means clustering algorithm for segmentation and Neural-network for classification. The proposed detection model based artiifical neural networks are very effective in recognizing leaf diseases.</b:BIBTEX_Abstract>
+        <b:DOI>10.1109/ICRTIT.2016.7569531</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Anand</b:Last>
+                        <b:First>R.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Veni</b:Last>
+                        <b:First>S.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Aravinth</b:Last>
+                        <b:First>J.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:JournalName>2016 International Conference on Recent Trends in Information Technology (ICRTIT)</b:JournalName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2005</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>DATA CLASSIFICATION USING SUPPORT VECTOR MACHINE</b:Title>
+        <b:Tag>srivastavaDATACLASSIFICATIONUSING2005</b:Tag>
+        <b:BIBTEX_Abstract>Classification is one of the most important tasks for different application such as text categorization, tone recognition, image classification, micro-array gene expression, proteins structure predictions, data Classification etc. Most of the existing supervised classification methods are based on traditional statistics, which can provide ideal results when sample size is tending to infinity. However, only finite samples can be acquired in practice. In this paper, a novel learning method, Support Vector Machine (SVM), is applied on different data (Diabetes data, Heart Data, Satellite Data and Shuttle data) which have two or multi class. SVM, a powerful machine method developed from statistical learning and has made significant achievement in some field. Introduced in the early 90's, they led to an explosion of interest in machine learning. The foundations of SVM have been developed by Vapnik and are gaining popularity in field of machine learning due to many attractive features and promising empirical performance. SVM method does not suffer the limitations of data dimensionality and limited samples [1] &amp; [2].</b:BIBTEX_Abstract>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Srivastava</b:Last>
+                        <b:Middle>K.</b:Middle>
+                        <b:First>Durgesh</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Bhambhu</b:Last>
+                        <b:First>Lekha</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>7</b:Pages>
+    </b:Source>
+    <b:Source>
+        <b:ShortTitle>Xception</b:ShortTitle>
+        <b:Year>2017</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Xception: Deep Learning with Depthwise Separable Convolutions</b:Title>
+        <b:Tag>cholletXceptionDeepLearning2017</b:Tag>
+        <b:BIBTEX_Abstract>We present an interpretation of Inception modules in convolutional neural networks as being an intermediate step in-between regular convolution and the depthwise separable convolution operation (a depthwise convolution followed by a pointwise convolution). In this light, a depthwise separable convolution can be understood as an Inception module with a maximally large number of towers. This observation leads us to propose a novel deep convolutional neural network architecture inspired by Inception, where Inception modules have been replaced with depthwise separable convolutions. We show that this architecture, dubbed Xception, slightly outperforms Inception V3 on the ImageNet dataset (which Inception V3 was designed for), and significantly outperforms Inception V3 on a larger image classification dataset comprising 350 million images and 17,000 classes. Since the Xception architecture has the same number of parameters as Inception V3, the performance gains are not due to increased capacity but rather to a more efficient use of model parameters.</b:BIBTEX_Abstract>
+        <b:BIBTEX_KeyWords>Computer Science - Computer Vision and Pattern Recognition</b:BIBTEX_KeyWords>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Chollet</b:Last>
+                        <b:First>François</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>4</b:Month>
+        <b:JournalName>arXiv:1610.02357 [cs]</b:JournalName>
+    </b:Source>
+    <b:Source>
+        <b:ShortTitle>EfficientNet</b:ShortTitle>
+        <b:Year>2020</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks</b:Title>
+        <b:Tag>tanEfficientNetRethinkingModel2020</b:Tag>
+        <b:BIBTEX_Abstract>Convolutional Neural Networks (ConvNets) are commonly developed at a fixed resource budget, and then scaled up for better accuracy if more resources are available. In this paper, we systematically study model scaling and identify that carefully balancing network depth, width, and resolution can lead to better performance. Based on this observation, we propose a new scaling method that uniformly scales all dimensions of depth/width/resolution using a simple yet highly effective compound coefficient. We demonstrate the effectiveness of this method on scaling up MobileNets and ResNet. To go even further, we use neural architecture search to design a new baseline network and scale it up to obtain a family of models, called EfficientNets, which achieve much better accuracy and efficiency than previous ConvNets. In particular, our EfficientNet-B7 achieves state-of-the-art 84.3% top-1 accuracy on ImageNet, while being 8.4x smaller and 6.1x faster on inference than the best existing ConvNet. Our EfficientNets also transfer well and achieve state-of-the-art accuracy on CIFAR-100 (91.7%), Flowers (98.8%), and 3 other transfer learning datasets, with an order of magnitude fewer parameters. Source code is at https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet.</b:BIBTEX_Abstract>
+        <b:BIBTEX_KeyWords>Computer Science - Computer Vision and Pattern Recognition,Computer Science - Machine Learning,Statistics - Machine Learning</b:BIBTEX_KeyWords>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Tan</b:Last>
+                        <b:First>Mingxing</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Le</b:Last>
+                        <b:Middle>V.</b:Middle>
+                        <b:First>Quoc</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>9</b:Month>
+        <b:JournalName>arXiv:1905.11946 [cs, stat]</b:JournalName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2008</b:Year>
+        <b:Volume>19</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Introduction to Artificial Neural Networks</b:Title>
+        <b:Tag>grossiIntroductionArtificialNeural2008</b:Tag>
+        <b:BIBTEX_Abstract>The coupling of computer science and theoretical bases such as nonlinear dynamics and chaos theory allows the creation of 'intelligent' agents, such as artificial neural networks (ANNs), able to adapt themselves dynamically to problems of high complexity. ANNs are able to reproduce the dynamic interaction of multiple factors simultaneously, allowing the study of complexity; they can also draw conclusions on individual basis and not as average trends. These tools can offer specific advantages with respect to classical statistical techniques. This article is designed to acquaint gastroenterologists with concepts and paradigms related to ANNs. The family of ANNs, when appropriately selected and used, permits the maximization of what can be derived from available data and from complex, dynamic, and multidimensional phenomena, which are often poorly predictable in the traditional 'cause and effect' philosophy.</b:BIBTEX_Abstract>
+        <b:DOI>10.1097/MEG.0b013e3282f198a0</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Grossi</b:Last>
+                        <b:First>Enzo</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Buscema</b:Last>
+                        <b:First>Massimo</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>1046–54</b:Pages>
+        <b:Month>1</b:Month>
+        <b:JournalName>European journal of gastroenterology &amp; hepatology</b:JournalName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2002</b:Year>
+        <b:Volume>96</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>An Introduction to Logistic Regression Analysis and Reporting</b:Title>
+        <b:Tag>pengIntroductionLogisticRegression2002</b:Tag>
+        <b:BIBTEX_Abstract>The purpose of this article is to provide researchers, editors, and readers with a set of guidelines for what to expect in an article using logistic regression techniques. Tables, figures, and charts that should be included to comprehensively assess the results and assumptions to be verified are discussed. This article demonstrates the preferred pattern for the application of logistic methods with an illustration of logistic regression applied to a data set in testing a research hypothesis. Recommendations are also offered for appropriate reporting formats of logistic regression results and the minimum observation-to-predictor ratio. The authors evaluated the use and interpretation of logistic regression presented in 8 articles published in The Journal of Educational Research between 1990 and 2000. They found that all 8 studies met or exceeded recommended criteria.</b:BIBTEX_Abstract>
+        <b:DOI>10.1080/00220670209598786</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Peng</b:Last>
+                        <b:First>Joanne</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Lee</b:Last>
+                        <b:First>Kuk</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Ingersoll</b:Last>
+                        <b:First>Gary</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>3–14</b:Pages>
+        <b:Month>9</b:Month>
+        <b:JournalName>Journal of Educational Research - J EDUC RES</b:JournalName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2020</b:Year>
+        <b:BIBTEX_Entry>inbook</b:BIBTEX_Entry>
+        <b:SourceType>BookSection</b:SourceType>
+        <b:Title>Cluster Analysis in Data Mining</b:Title>
+        <b:Tag>zhangClusterAnalysisData2020</b:Tag>
+        <b:Publisher>Chapman and Hall/CRC</b:Publisher>
+        <b:BookTitle>Analyzing High-Dimensional Gene Expression and DNA Methylation Data with R</b:BookTitle>
+        <b:Edition>First</b:Edition>
+        <b:DOI>10.1201/9780429155192-5</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Zhang</b:Last>
+                        <b:First>Hongmei</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>57–99</b:Pages>
+        <b:Month>5</b:Month>
+        <b:StandardNumber> ISBN: 978-0-429-15519-2</b:StandardNumber>
+        <b:ConferenceName>Analyzing High-Dimensional Gene Expression and DNA Methylation Data with R</b:ConferenceName>
+        <b:City>Boca Raton, FL : CRC Press, 2020. | Series: Chapman &amp; Hall/CRC mathematical and computational biology series</b:City>
+    </b:Source>
+    <b:Source>
+        <b:Year>2015</b:Year>
+        <b:Volume>46</b:Volume>
+        <b:BIBTEX_Series>Proceedings of the International Conference on Information and Communication Technologies, ICICT 2014, 3-5 December 2014 at Bolgatty Palace &amp; Island Resort, Kochi, India</b:BIBTEX_Series>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Image Processing Based Detection of Fungal Diseases in Plants</b:Title>
+        <b:Tag>pujariImageProcessingBased2015</b:Tag>
+        <b:BIBTEX_Abstract>This paper presents a study on the image processing techniques used to identify and classify fungal disease symptoms affected on different agriculture/horticulture crops. Computers have been used to mechanization, automation, and to develop decision support system for taking strategic decision on the agricultural production and protection research. The plant disease diagnosis is limited by the human visual capabilities because most of the first symptoms are microscopic. As plant health monitoring is still carried out by humans due to the visual nature of the plant monitoring task, computer vision techniques seem to be well adapted. One of the areas considered here is the processing of images of disease affected agriculture/horticulture crops. The quantity and quality of plant products gets reduced by plant diseases. The goal is to detect, to identify, and to accurately quantify the first symptoms of diseases. Plant diseases are caused by bacteria, fungi, virus, nematodes, etc., of which fungi is the main disease causing organism. Focus has been done on the early detection of fungal disease based on the symptoms.</b:BIBTEX_Abstract>
+        <b:BIBTEX_KeyWords>agriculture crops,fungal disease,horticulture crops,pattern recognition</b:BIBTEX_KeyWords>
+        <b:DOI>10.1016/j.procs.2015.02.137</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Pujari</b:Last>
+                        <b:Middle>D.</b:Middle>
+                        <b:First>Jagadeesh</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Yakkundimath</b:Last>
+                        <b:First>Rajesh</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Byadgi</b:Last>
+                        <b:Middle>S.</b:Middle>
+                        <b:First>Abdulmunaf</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>1802–1808</b:Pages>
+        <b:Month>1</b:Month>
+        <b:JournalName>Procedia Computer Science</b:JournalName>
+        <b:StandardNumber> ISSN: 1877-0509</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>OpenAPI Specification - Version 3.0.3 | Swagger</b:Title>
+        <b:Tag>OpenAPISpecificationVersion</b:Tag>
+        <b:BIBTEX_HowPublished>https://swagger.io/specification/</b:BIBTEX_HowPublished>
+        <b:Author/>
+        <b:PublicationTitle>OpenAPI Specification - Version 3.0.3 | Swagger</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2015</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>JSON Web Token (JWT)</b:Title>
+        <b:Institution>RFC Editor</b:Institution>
+        <b:Tag>jonesJSONWebToken2015</b:Tag>
+        <b:BIBTEX_Abstract>JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties. The claims in a JWT are encoded as a JSON object that is used as the payload of a JSON Web Signature (JWS) structure or as the plaintext of a JSON Web Encryption (JWE) structure, enabling the claims to be digitally signed or integrity protected with a Message Authentication Code (MAC) and/or encrypted.</b:BIBTEX_Abstract>
+        <b:DOI>10.17487/RFC7519</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Jones</b:Last>
+                        <b:First>M.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Bradley</b:Last>
+                        <b:First>J.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Sakimura</b:Last>
+                        <b:First>N.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>RFC7519</b:Pages>
+        <b:Month>5</b:Month>
+        <b:Number>RFC7519</b:Number>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2012</b:Year>
+        <b:Volume>7700</b:Volume>
+        <b:BIBTEX_Entry>incollection</b:BIBTEX_Entry>
+        <b:SourceType>BookSection</b:SourceType>
+        <b:Title>Learning Feature Representations with K-Means</b:Title>
+        <b:Tag>coatesLearningFeatureRepresentations2012</b:Tag>
+        <b:Publisher>Springer Berlin Heidelberg</b:Publisher>
+        <b:BIBTEX_Abstract>Many algorithms are available to learn deep hierarchies of features from unlabeled data, especially images. In many cases, these algorithms involve multi-layered networks of features (e.g., neural networks) that are sometimes tricky to train and tune and are difficult to scale up to many machines effectively. Recently, it has been found that K-means clustering can be used as a fast alternative training method. The main advantage of this approach is that it is very fast and easily implemented at large scale. On the other hand, employing this method in practice is not completely trivial: K-means has several limitations, and care must be taken to combine the right ingredients to get the system to work well. This chapter will summarize recent results and technical tricks that are needed to make effective use of K-means clustering for learning large-scale representations of images. We will also connect these results to other well-known algorithms to make clear when K-means can be most useful and convey intuitions about its behavior that are useful for debugging and engineering new systems.</b:BIBTEX_Abstract>
+        <b:BookTitle>Neural Networks: Tricks of the Trade</b:BookTitle>
+        <b:DOI>10.1007/978-3-642-35289-8_30</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Coates</b:Last>
+                        <b:First>Adam</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Ng</b:Last>
+                        <b:Middle>Y.</b:Middle>
+                        <b:First>Andrew</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+            <b:Editor>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Montavon</b:Last>
+                        <b:First>Grégoire</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Orr</b:Last>
+                        <b:Middle>B.</b:Middle>
+                        <b:First>Geneviève</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Müller</b:Last>
+                        <b:First>Klaus-Robert</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Editor>
+        </b:Author>
+        <b:Pages>561–580</b:Pages>
+        <b:StandardNumber> ISBN: 978-3-642-35288-1 978-3-642-35289-8</b:StandardNumber>
+        <b:ConferenceName>Neural Networks: Tricks of the Trade</b:ConferenceName>
+        <b:City>Berlin</b:City>
+        <b:StateProvince>Heidelberg</b:StateProvince>
+        <b:CountryRegion/>
+    </b:Source>
+    <b:Source>
+        <b:ShortTitle>Delivering Messages from Plant Clinics</b:ShortTitle>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Delivering Messages from Plant Clinics: The Influence of Communication on Farmer's Perception and Uptake of Advice</b:Title>
+        <b:Tag>DeliveringMessagesPlant</b:Tag>
+        <b:Author/>
+        <b:JournalName>CABI.org</b:JournalName>
+        <b:PublicationTitle>Delivering Messages from Plant Clinics: The Influence of Communication on Farmer's Perception and Uptake of Advice</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>HMAC (Hash-Based Message Authentication Codes) Definition | Okta</b:Title>
+        <b:Tag>HMACHashBasedMessage</b:Tag>
+        <b:BIBTEX_Abstract>HMAC (or hashed message authentication code) is an authentication method that uses two keys as protection from attacks. Learn when and how to use HMAC.</b:BIBTEX_Abstract>
+        <b:BIBTEX_HowPublished>https://www.okta.com/identity-101/hmac/</b:BIBTEX_HowPublished>
+        <b:Author/>
+        <b:PublicationTitle>HMAC (Hash-Based Message Authentication Codes) Definition | Okta</b:PublicationTitle>
+    </b:Source>
+</b:Sources>
